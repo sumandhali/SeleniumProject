@@ -1,0 +1,424 @@
+06/05/2024 05:08:42 PM: INFO: title--->Your store. Login
+06/05/2024 05:08:42 PM: INFO: Test Case Passed!
+06/05/2024 05:09:17 PM: INFO: title--->Dashboard / nopCommerce administration
+06/05/2024 05:09:17 PM: INFO: Test Case Passed!
+06/06/2024 01:28:51 PM: INFO: title--->Your store. Login
+06/06/2024 01:28:51 PM: INFO: Test Case Passed!
+06/06/2024 01:29:30 PM: INFO: title--->Dashboard / nopCommerce administration
+06/06/2024 01:29:30 PM: INFO: Test Case Passed!
+06/06/2024 01:37:56 PM: INFO: title--->Your store. Login
+06/06/2024 01:37:56 PM: INFO: Test Case Passed!
+06/06/2024 01:38:34 PM: INFO: title--->Dashboard / nopCommerce administration
+06/06/2024 01:38:35 PM: INFO: Test Case Passed!
+06/06/2024 03:53:00 PM: INFO: title--->Your store. Login
+06/06/2024 03:53:02 PM: INFO: Test Case Passed!
+06/06/2024 03:53:10 PM: INFO: title--->Dashboard / nopCommerce administration
+06/06/2024 03:53:10 PM: INFO: Test Case Passed!
+06/08/2024 01:54:50 PM: INFO: Test_002_DDT_Login
+06/08/2024 01:55:06 PM: INFO: Passed
+06/08/2024 01:55:08 PM: INFO: Login DDT Passed
+06/08/2024 01:56:09 PM: INFO: Test_002_DDT_Login
+06/08/2024 01:56:22 PM: INFO: Passed
+06/08/2024 01:56:24 PM: INFO: Login DDT Passed
+06/08/2024 02:00:07 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:00:21 PM: INFO: Passed
+06/08/2024 02:00:28 PM: INFO: Passed
+06/08/2024 02:03:29 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:03:45 PM: INFO: Passed
+06/08/2024 02:03:53 PM: INFO: Passed
+06/08/2024 02:12:31 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:12:48 PM: INFO: Passed
+06/08/2024 02:13:00 PM: INFO: Passed
+06/08/2024 02:24:38 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:24:42 PM: INFO: Number of Rows in Excel: 5
+06/08/2024 02:24:47 PM: INFO: Passed
+06/08/2024 02:24:50 PM: ERROR: Exception occurred during login
+06/08/2024 02:25:01 PM: ERROR: Exception occurred during login
+06/08/2024 02:29:10 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:29:13 PM: INFO: Number of Rows in Excel: 5
+06/08/2024 02:29:18 PM: INFO: Passed
+06/08/2024 02:29:19 PM: ERROR: Exception occurred during login
+06/08/2024 02:29:30 PM: ERROR: Exception occurred during login
+06/08/2024 02:33:51 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:34:09 PM: INFO: Passed
+06/08/2024 02:34:21 PM: INFO: Passed
+06/08/2024 02:38:58 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+06/08/2024 02:38:58 PM: INFO: ******* Starting Login DDT Test **********
+06/08/2024 02:39:10 PM: INFO: **** passed ****
+06/08/2024 02:39:18 PM: INFO: **** passed ****
+06/08/2024 02:42:35 PM: INFO: Test_002_DDT_Login
+06/08/2024 02:42:47 PM: INFO: Passed
+06/08/2024 02:42:55 PM: INFO: Passed
+06/08/2024 02:43:01 PM: INFO: Passed
+06/08/2024 02:43:07 PM: INFO: Passed
+06/08/2024 02:43:07 PM: INFO: Login DDT Passed
+06/09/2024 11:44:57 AM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 11:45:05 AM: INFO: ************* Login succesful **********
+06/09/2024 11:45:05 AM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 11:46:15 AM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 11:46:23 AM: INFO: ************* Login succesful **********
+06/09/2024 11:46:23 AM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 11:50:38 AM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 11:50:44 AM: INFO: ************* Login succesful **********
+06/09/2024 11:50:44 AM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 12:32:31 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 12:32:40 PM: INFO: ************* Login succesful **********
+06/09/2024 12:32:40 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 12:34:26 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 12:34:35 PM: INFO: ************* Login succesful **********
+06/09/2024 12:34:35 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 12:37:44 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 12:37:52 PM: INFO: ************* Login succesful **********
+06/09/2024 12:37:52 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 12:43:01 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 12:43:08 PM: INFO: ************* Login succesful **********
+06/09/2024 12:43:08 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 12:51:04 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 12:51:11 PM: INFO: ************* Login succesful **********
+06/09/2024 12:51:11 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 05:15:08 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 05:15:20 PM: INFO: ************* Login succesful **********
+06/09/2024 05:15:20 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 05:16:10 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 05:17:33 PM: INFO: ************* Login succesful **********
+06/09/2024 05:17:33 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 05:25:43 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 05:25:51 PM: INFO: ************* Login succesful **********
+06/09/2024 05:25:51 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 05:26:02 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 05:26:02 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:02:13 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:02:20 PM: INFO: ************* Login succesful **********
+06/09/2024 07:02:20 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:02:31 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:02:32 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:05:32 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:05:38 PM: INFO: ************* Login succesful **********
+06/09/2024 07:05:38 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:05:50 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:05:51 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:07:00 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:07:08 PM: INFO: ************* Login succesful **********
+06/09/2024 07:07:08 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:07:20 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:07:21 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:09:12 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:09:21 PM: INFO: ************* Login succesful **********
+06/09/2024 07:09:21 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:09:34 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:09:35 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:16:39 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:16:46 PM: INFO: ************* Login succesful **********
+06/09/2024 07:16:46 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:17:01 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:17:02 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:27:20 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:27:35 PM: INFO: ************* Login succesful **********
+06/09/2024 07:27:35 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:27:48 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:27:49 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:31:20 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:35:23 PM: INFO: ************* Login succesful **********
+06/09/2024 07:35:23 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:35:36 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 07:35:44 PM: INFO: ************* Login succesful **********
+06/09/2024 07:35:44 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 07:35:55 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 07:35:56 PM: INFO: ************* Providing customer info **********
+06/09/2024 07:37:17 PM: INFO: ************* Saving customer info **********
+06/09/2024 07:37:17 PM: INFO: ********* Add customer validation started *****************
+06/09/2024 10:14:15 PM: WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): operation timed out
+06/09/2024 10:14:17 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:14:51 PM: INFO: ************* Login succesful **********
+06/09/2024 10:14:51 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:15:08 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:15:12 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:16:33 PM: INFO: ************* Saving customer info **********
+06/09/2024 10:16:33 PM: INFO: ********* Add customer validation started *****************
+06/09/2024 10:18:14 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:18:28 PM: INFO: ************* Login succesful **********
+06/09/2024 10:18:28 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:18:40 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:18:41 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:20:02 PM: INFO: ************* Saving customer info **********
+06/09/2024 10:20:02 PM: INFO: ********* Add customer validation started *****************
+06/09/2024 10:20:04 PM: ERROR: ********* Add customer Test Failed ************
+06/09/2024 10:36:57 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:37:11 PM: INFO: ************* Login succesful **********
+06/09/2024 10:37:11 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:37:24 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:37:25 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:38:37 PM: INFO: ************* Saving customer info **********
+06/09/2024 10:38:37 PM: INFO: ********* Add customer validation started *****************
+06/09/2024 10:38:38 PM: ERROR: ********* Add customer Test Failed ************
+06/09/2024 10:40:09 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:40:15 PM: INFO: ************* Login succesful **********
+06/09/2024 10:40:15 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:40:26 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:40:27 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:46:06 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:46:27 PM: INFO: ************* Login succesful **********
+06/09/2024 10:46:27 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:46:43 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:46:49 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:50:41 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:50:50 PM: INFO: ************* Login succesful **********
+06/09/2024 10:50:50 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:51:01 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:51:03 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:52:46 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:52:52 PM: INFO: ************* Login succesful **********
+06/09/2024 10:52:53 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:53:04 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:53:04 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:55:31 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:55:37 PM: INFO: ************* Login succesful **********
+06/09/2024 10:55:37 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 10:55:48 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/09/2024 10:55:49 PM: INFO: ************* Providing customer info **********
+06/09/2024 10:58:42 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 10:58:48 PM: INFO: ************* Login succesful **********
+06/09/2024 10:58:48 PM: INFO: ******* Starting Add Customer Test **********
+06/09/2024 11:00:19 PM: INFO: ************* Test_003_AddCustomer **********
+06/09/2024 11:00:26 PM: INFO: ************* Login succesful **********
+06/09/2024 11:00:26 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 06:47:10 AM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 06:47:23 AM: INFO: ************* Login succesful **********
+06/10/2024 06:47:23 AM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 06:47:34 AM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 06:47:34 AM: INFO: ************* Providing customer info **********
+06/10/2024 06:48:55 AM: INFO: ************* Saving customer info **********
+06/10/2024 06:48:55 AM: INFO: ********* Add customer validation started *****************
+06/10/2024 06:48:56 AM: ERROR: ********* Add customer Test Failed ************
+06/10/2024 12:27:32 PM: INFO: ************* SearchCustomerByEmail_004 **********
+06/10/2024 12:27:39 PM: INFO: ************* Login succesful **********
+06/10/2024 12:27:39 PM: INFO: ******* Starting Search Customer By Email **********
+06/10/2024 12:30:23 PM: INFO: ************* SearchCustomerByEmail_004 **********
+06/10/2024 12:31:09 PM: INFO: ************* Login succesful **********
+06/10/2024 12:31:09 PM: INFO: ******* Starting Search Customer By Email **********
+06/10/2024 12:31:48 PM: INFO: ************* searching customer by emailID **********
+06/10/2024 12:36:01 PM: INFO: ************* SearchCustomerByEmail_004 **********
+06/10/2024 12:36:13 PM: INFO: ************* Login succesful **********
+06/10/2024 12:36:13 PM: INFO: ******* Starting Search Customer By Email **********
+06/10/2024 12:36:41 PM: INFO: ************* searching customer by emailID **********
+06/10/2024 12:36:52 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+06/10/2024 05:37:32 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 05:37:41 PM: INFO: ************* Login succesful **********
+06/10/2024 05:37:41 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 05:37:52 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 05:37:53 PM: INFO: ************* Providing customer info **********
+06/10/2024 05:39:14 PM: INFO: ************* Saving customer info **********
+06/10/2024 05:39:14 PM: INFO: ********* Add customer validation started *****************
+06/10/2024 05:39:15 PM: ERROR: ********* Add customer Test Failed ************
+06/10/2024 05:55:28 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 05:55:35 PM: INFO: ************* Login succesful **********
+06/10/2024 05:55:35 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 05:55:46 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 05:55:47 PM: INFO: ************* Providing customer info **********
+06/10/2024 05:56:58 PM: INFO: ************* Saving customer info **********
+06/10/2024 05:56:58 PM: INFO: ********* Add customer validation started *****************
+06/10/2024 05:56:58 PM: ERROR: ********* Add customer Test Failed ************
+06/10/2024 05:59:04 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 05:59:11 PM: INFO: ************* Login succesful **********
+06/10/2024 05:59:11 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 05:59:22 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 05:59:24 PM: INFO: ************* Providing customer info **********
+06/10/2024 06:00:23 PM: INFO: ************* Saving customer info **********
+06/10/2024 06:00:23 PM: INFO: ********* Add customer validation started *****************
+06/10/2024 06:00:24 PM: INFO: ********* Add customer Test Passed *********
+06/10/2024 06:00:25 PM: INFO: ******* Ending Add customer test **********
+06/10/2024 06:06:01 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 06:06:08 PM: INFO: ************* Login succesful **********
+06/10/2024 06:06:08 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 06:06:19 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 06:06:20 PM: INFO: ************* Providing customer info **********
+06/10/2024 06:12:52 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 06:13:00 PM: INFO: ************* Login succesful **********
+06/10/2024 06:13:00 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 06:13:11 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 06:13:13 PM: INFO: ************* Providing customer info **********
+06/10/2024 06:41:45 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 06:41:54 PM: INFO: ************* Login succesful **********
+06/10/2024 06:41:54 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 06:42:54 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 06:43:01 PM: INFO: ************* Login succesful **********
+06/10/2024 06:43:01 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 06:44:09 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 06:44:16 PM: INFO: ************* Login succesful **********
+06/10/2024 06:44:16 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:05:49 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:06:03 PM: INFO: ************* Login succesful **********
+06/10/2024 07:06:03 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:10:14 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:10:23 PM: INFO: ************* Login succesful **********
+06/10/2024 07:10:23 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:11:45 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:12:07 PM: INFO: ************* Login succesful **********
+06/10/2024 07:12:07 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:13:53 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:14:02 PM: INFO: ************* Login succesful **********
+06/10/2024 07:14:02 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:14:24 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:14:33 PM: INFO: ************* Login succesful **********
+06/10/2024 07:14:33 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:15:49 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:16:03 PM: INFO: ************* Login succesful **********
+06/10/2024 07:16:03 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:24:48 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:25:33 PM: INFO: ************* Login succesful **********
+06/10/2024 07:25:33 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:25:54 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 07:25:56 PM: INFO: ************* Providing customer info **********
+06/10/2024 07:28:59 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 07:29:09 PM: INFO: ************* Login succesful **********
+06/10/2024 07:29:09 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 07:29:21 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 07:29:23 PM: INFO: ************* Providing customer info **********
+06/10/2024 11:08:49 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 11:08:57 PM: INFO: ************* Login succesful **********
+06/10/2024 11:08:57 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 11:09:14 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 11:09:15 PM: INFO: ************* Providing customer info **********
+06/10/2024 11:10:09 PM: INFO: title--->Your store. Login
+06/10/2024 11:10:09 PM: INFO: Test Case Passed!
+06/10/2024 11:10:21 PM: INFO: title--->Dashboard / nopCommerce administration
+06/10/2024 11:10:22 PM: INFO: Test Case Passed!
+06/10/2024 11:12:56 PM: INFO: ************* Test_003_AddCustomer **********
+06/10/2024 11:13:03 PM: INFO: ************* Login succesful **********
+06/10/2024 11:13:03 PM: INFO: ******* Starting Add Customer Test **********
+06/10/2024 11:13:15 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/10/2024 11:13:15 PM: INFO: ************* Providing customer info **********
+06/10/2024 11:14:16 PM: INFO: ************* Saving customer info **********
+06/10/2024 11:14:16 PM: INFO: ********* Add customer validation started *****************
+06/10/2024 11:14:18 PM: INFO: ********* Add customer Test Passed *********
+06/10/2024 11:14:18 PM: INFO: ******* Ending Add customer test **********
+06/10/2024 11:14:24 PM: INFO: title--->Your store. Login
+06/10/2024 11:14:25 PM: INFO: Test Case Passed!
+06/10/2024 11:14:36 PM: INFO: title--->Dashboard / nopCommerce administration
+06/10/2024 11:14:37 PM: INFO: Test Case Passed!
+06/11/2024 05:28:17 PM: INFO: ************* SearchCustomerByEmail_005 **********
+06/11/2024 05:30:53 PM: INFO: ************* Login succesful **********
+06/11/2024 05:30:53 PM: INFO: ******* Starting Search Product By Name **********
+06/11/2024 05:31:48 PM: INFO: ************* searching products by name **********
+06/11/2024 05:35:24 PM: INFO: ************* SearchCustomerByEmail_005 **********
+06/11/2024 05:35:31 PM: INFO: ************* Login succesful **********
+06/11/2024 05:35:31 PM: INFO: ******* Starting Search Product By Name **********
+06/11/2024 05:35:57 PM: INFO: ************* searching products by name **********
+06/11/2024 05:37:37 PM: INFO: ************* SearchCustomerByEmail_005 **********
+06/11/2024 05:37:43 PM: INFO: ************* Login succesful **********
+06/11/2024 05:37:43 PM: INFO: ******* Starting Search Product By Name **********
+06/11/2024 05:38:09 PM: INFO: ************* searching products by name **********
+06/12/2024 10:58:21 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 10:58:26 AM: INFO: ************* Login succesful **********
+06/12/2024 10:58:26 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 10:58:45 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 10:58:52 AM: INFO: ************* Login succesful **********
+06/12/2024 10:58:52 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 10:59:39 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 10:59:44 AM: INFO: ************* Login succesful **********
+06/12/2024 10:59:44 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:00:01 AM: INFO: title--->Your store. Login
+06/12/2024 11:00:02 AM: INFO: Test Case Passed!
+06/12/2024 11:00:10 AM: INFO: title--->Dashboard / nopCommerce administration
+06/12/2024 11:00:10 AM: INFO: Test Case Passed!
+06/12/2024 11:00:29 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:00:35 AM: INFO: ************* Login succesful **********
+06/12/2024 11:00:35 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:00:51 AM: INFO: title--->Your store. Login
+06/12/2024 11:00:51 AM: INFO: Test Case Passed!
+06/12/2024 11:01:00 AM: INFO: title--->Dashboard / nopCommerce administration
+06/12/2024 11:01:01 AM: INFO: Test Case Passed!
+06/12/2024 11:01:20 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:01:26 AM: INFO: ************* Login succesful **********
+06/12/2024 11:01:26 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:03:11 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:03:16 AM: INFO: ************* Login succesful **********
+06/12/2024 11:03:16 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:03:35 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:03:42 AM: INFO: ************* Login succesful **********
+06/12/2024 11:03:42 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:04:01 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:04:06 AM: INFO: ************* Login succesful **********
+06/12/2024 11:04:06 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:04:41 AM: INFO: ************* SearchCustomerByEmail_004 **********
+06/12/2024 11:04:46 AM: INFO: ************* Login succesful **********
+06/12/2024 11:04:46 AM: INFO: ******* Starting Search Customer By Email **********
+06/12/2024 11:05:13 AM: INFO: ************* searching customer by emailID **********
+06/12/2024 11:05:24 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+06/12/2024 11:06:29 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:06:35 AM: INFO: ************* Login succesful **********
+06/12/2024 11:06:35 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:07:05 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:07:11 AM: INFO: ************* Login succesful **********
+06/12/2024 11:07:11 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:07:34 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:07:42 AM: INFO: ************* Login succesful **********
+06/12/2024 11:07:42 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:10:06 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:10:12 AM: INFO: ************* Login succesful **********
+06/12/2024 11:10:12 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:12:15 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:12:21 AM: INFO: ************* Login succesful **********
+06/12/2024 11:12:21 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:12:57 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:13:03 AM: INFO: ************* Login succesful **********
+06/12/2024 11:13:03 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:13:43 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:13:49 AM: INFO: ************* Login succesful **********
+06/12/2024 11:13:49 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:17:08 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:17:13 AM: INFO: ************* Login succesful **********
+06/12/2024 11:17:13 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:17:35 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:17:41 AM: INFO: ************* Login succesful **********
+06/12/2024 11:17:41 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:19:23 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:19:28 AM: INFO: ************* Login succesful **********
+06/12/2024 11:19:28 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:19:44 AM: INFO: title--->Your store. Login
+06/12/2024 11:19:45 AM: INFO: Test Case Passed!
+06/12/2024 11:19:57 AM: INFO: title--->Dashboard / nopCommerce administration
+06/12/2024 11:19:57 AM: INFO: Test Case Passed!
+06/12/2024 11:22:17 AM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 11:22:23 AM: INFO: ************* Login succesful **********
+06/12/2024 11:22:23 AM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 11:22:39 AM: INFO: title--->Your store. Login
+06/12/2024 11:22:40 AM: INFO: Test Case Passed!
+06/12/2024 11:22:49 AM: INFO: title--->Dashboard / nopCommerce administration
+06/12/2024 11:22:50 AM: INFO: Test Case Passed!
+06/12/2024 11:24:40 AM: INFO: ************* SearchCustomerByEmail_004 **********
+06/12/2024 11:25:14 AM: INFO: ************* SearchCustomerByEmail_004 **********
+06/12/2024 11:25:21 AM: INFO: ************* Login succesful **********
+06/12/2024 11:25:21 AM: INFO: ******* Starting Search Customer By Email **********
+06/12/2024 11:25:47 AM: INFO: ************* searching customer by emailID **********
+06/12/2024 11:25:58 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+06/12/2024 11:26:54 AM: INFO: ************* SearchCustomerByEmail_005 **********
+06/12/2024 11:27:00 AM: INFO: ************* Login succesful **********
+06/12/2024 11:27:00 AM: INFO: ******* Starting Search Product By Name **********
+06/12/2024 11:27:44 AM: INFO: ************* searching products by name **********
+06/12/2024 11:28:09 AM: INFO: title--->Your store. Login
+06/12/2024 11:28:10 AM: INFO: Test Case Passed!
+06/12/2024 11:28:24 AM: INFO: title--->admin-demo.nopcommerce.com
+06/12/2024 11:28:25 AM: INFO: TestCase Failed!
+06/12/2024 11:28:25 AM: INFO: TestCase Failed!
+06/12/2024 11:28:27 AM: INFO: Test_002_DDT_Login
+06/12/2024 11:28:33 AM: INFO: ************* SearchCustomerByEmail_004 **********
+06/12/2024 11:28:39 AM: INFO: ************* SearchCustomerByName_005 **********
+06/12/2024 01:00:04 PM: INFO: ************* Test_003_AddCustomer **********
+06/12/2024 01:00:13 PM: INFO: ************* Login succesful **********
+06/12/2024 01:00:13 PM: INFO: ******* Starting Add Customer Test **********
+06/12/2024 01:00:24 PM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/12/2024 01:00:25 PM: INFO: ************* Providing customer info **********
+06/12/2024 01:01:26 PM: INFO: ************* Saving customer info **********
+06/12/2024 01:01:26 PM: INFO: ********* Add customer validation started *****************
+06/12/2024 01:01:27 PM: INFO: ********* Add customer Test Passed *********
+06/12/2024 01:01:27 PM: INFO: ******* Ending Add customer test **********
+06/13/2024 09:01:59 AM: INFO: ************* Test_003_AddCustomer **********
+06/13/2024 09:02:06 AM: INFO: ************* Login succesful **********
+06/13/2024 09:02:06 AM: INFO: ******* Starting Add Customer Test **********
+06/13/2024 09:02:17 AM: INFO: @@@@@@Clicking add new button@@@@@@@
+06/13/2024 09:02:18 AM: INFO: ************* Providing customer info **********
+06/13/2024 09:03:19 AM: INFO: ************* Saving customer info **********
+06/13/2024 09:03:19 AM: INFO: ********* Add customer validation started *****************
+06/13/2024 09:03:20 AM: INFO: ********* Add customer Test Passed *********
+06/13/2024 09:03:20 AM: INFO: ******* Ending Add customer test **********
